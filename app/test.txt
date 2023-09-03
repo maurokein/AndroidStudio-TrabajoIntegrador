@@ -1,0 +1,1 @@
+Archivo de prueba para la creación de la carpeta /app, en donde estará el código fuente del trabajo integrador.
