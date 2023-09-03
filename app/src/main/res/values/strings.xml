@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrabajoIntegrador</string>
+    <string name="btn_name">COMPARAR</string>
+    <string name="result_name">RESULTADO</string>
+    <string name="texto_uno">INGRESE EL TEXTO 1</string>
+    <string name="texto_dos">INGRESE EL TEXTO 2</string>
+    <string name="header">TEXT COMPARATOR</string>
+</resources>
